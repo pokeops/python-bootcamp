@@ -4,23 +4,23 @@ Write a program to input two numbers(A & B) from user and print the maximum elem
 
 
 ### Problem Constraints
-
+```
 1 <= A <= 1000000
 
 1 <= B <= 1000000
-
+```
 
 
 ### Input Format
 
-First line is a single integer A.
-Second line is a single integer B.
+- First line is a single integer A.
+- Second line is a single integer B.
 
 
 
 ### Output Format
 
-One line containing the greater integer A or B.
+- One line containing the greater integer A or B.
 
 
 
