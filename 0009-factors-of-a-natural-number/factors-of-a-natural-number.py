@@ -1,5 +1,5 @@
 def main():
-    N = int(input())
+    N = int(input("Enter a natural number: "))
     for factor in range (1, N+1, 1):
         if N%factor == 0:
                 print(factor, end=" ")
