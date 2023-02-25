@@ -22,6 +22,8 @@ def main():
             print("YES")
         else:
             print("NO")
+    
+    return 0
 
 if __name__ == '__main__':
     main()
