@@ -26,18 +26,18 @@ Write a program to input an integer from user and print 1 if it is odd otherwise
 5
 ```
 
-```
 ##### Input 2:
 ```
 1000
 ```
 
-
 ### Example Output
+
 ##### Output 1:
 ```
 1
 ```
+
 ##### Output 2:
 ```
 0
