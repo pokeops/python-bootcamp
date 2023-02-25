@@ -4,9 +4,12 @@ def main():
     # E.g. 'input()/raw_input()' for input & 'print' for output
     N = int(input("Enter a positive integer here: "))
     FACT = 1
+
     for i in range(1, N+1, 1):
         FACT = FACT * i
     print(str(N) + "!" + " is equal to", FACT)
+
+    return 0
 
 if __name__ == '__main__':
     main()
@@ -17,8 +20,11 @@ if __name__ == '__main__':
 N = int(input("Enter a positive integer here: "))
 FACT = 1
 i = 1
+
 while i <= N:
     FACT = FACT * i
     i += 1
 print(str(N) + "!" + " is equal to", FACT)
+
+return 0
 """
