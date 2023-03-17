@@ -25,7 +25,7 @@ def main():
     MY_RANGE(6,10,1)
     MY_RANGE(6,20,2)
     MY_RANGE(-6,-16,-2)
-
+    
     return None
 
 if __name__ == '__main__':
