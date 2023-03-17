@@ -12,11 +12,10 @@ def MY_RANGE(start, stop, step=1):
         x = start
         while x > stop:
             if x == stop-step:
-                print(x, end= "")
-                x = x + step               
+                print(x, end= "")              
             else:
                 print(x, end= ",")
-                x = x + step
+            x = x + step
         print()
 
     return None
