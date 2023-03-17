@@ -2,7 +2,7 @@ def nCr(a,b):               #nCr= n! / (r! * n-r!)
     NUM = FACT(a)
     DEN = FACT(b) * FACT(a-b)
     return int(NUM/DEN)      
-#   return NUM//DEN         (You can return NUM // DEN as well.)
+#   return NUM//DEN         (You can return NUM // DEN as well, Quotient Operator)
 
 def FACT(x):
     F = 1
